@@ -1,24 +1,24 @@
 // ✩｡:*•.─────  NUMERO OWNER  ─────.•*:｡✩ 
-global.owner = ['51993042301', '16477229464', '593993684821', '593968585383', '50495086382', '50497501147', '5218451003894', '5215573031859', '50498965677', '528451003894', '525573031859'] //Agrega primero el numero que será Bot, luego los numeros a ser Owner
-global.mods = [] //Moderadores
+global.owner = ['51934721687', '51934721687', '51934721687', '51934721687', '51934721687', '51934721687', '51934721687', '51934721687', '51934721687', '51934721687', '51934721687'] //Agrega primero el numero que será Bot, luego los numeros a ser Owner
+global.mods = ['51934721687'] //Moderadores
 global.prems = [] //Premium, sin Limites en usar el Bot
 
 // ✩｡:*•.─────  INFORMACIION DEL BOT - GENERAL  ─────.•*:｡✩ 
-global.packname = '𝑴𝒖𝒍𝒕𝒊𝒗𝒆𝒓𝒔𝒆𝑩𝒐𝒕-𝑴𝑫' //Sticker
-global.author = '@gata_dios'
+global.packname = 'BenjaExeBot-MD' //Sticker
+global.author = '@benjaexe.pee'
 
-global.nameowner = '✨ 𝑴𝒖𝒍𝒕𝒊𝒗𝒆𝒓𝒔𝒆𝑩𝒐𝒕-𝑴𝑫 ✨' //Nombre del Bot
-global.numberowner = '51993042301'
+global.nameowner = '✨ BenjaExeBot-MD ✨' //Nombre del Bot
+global.numberowner = '51934721687'
 
-global.instagram = 'https://www.instagram.com/gata_dios' //Enlaces
-global.youtube = 'https://youtube.com/channel/UCpNU4eY7eiI0ve05CssjdbA'
-global.github = 'https://github.com/GataNina-Li/MultiverseBot-MD'
+global.instagram = 'https://www.instagram.com/benjaexe.pee' //Enlaces
+global.youtube = ''
+global.github = ''
 
 
 // ✩｡:*•.─────  DATOS SECUNDARIOS  ─────.•*:｡✩ 
-global.namebot = 'MultiverseBot-MD '
-global.gc = 'https://github.com/GataNina-Li/MultiverseBot-MD'
-global.web = 'https://youtube.com/channel/UCpNU4eY7eiI0ve05CssjdbA' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
+global.namebot = 'BenjaExeBot-MD '
+global.gc = ''
+global.web = '' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.price1 = '1 bulan = 10.000\n2 Minggu 7.000\n1 Minggu 5.000'
 
 // ✩｡:*•.─────  ELEMENTOS DE INTERFAZ Y COMPLEMENTOS  ─────.•*:｡✩ 
@@ -26,7 +26,7 @@ global.fotonya1 = 'https://telegra.ph/file/e4a2f4339da8a32ad20a1.jpg' //ganti ja
 global.fotonya2 = 'https://telegra.ph/file/8c471d45b6cedad43cf84.jpg' //ini juga ganti 
 global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
-global.wm = '𝑴𝒖𝒍𝒕𝒊𝒗𝒆𝒓𝒔𝒆𝑩𝒐𝒕-𝑴𝑫'
+global.wm = 'BenjaExeBot'
 global.watermark = wm
 global.wm2 = '                     「 𝚂𝙷𝙸𝚁𝙾-𝙼𝙳 あ⁩ 」'
 global.wm3 = '⫹⫺ 𝚂𝙷𝙸𝚁𝙾-𝙼𝙳'
