@@ -1,16 +1,16 @@
 // ✩｡:*•.─────  NUMERO OWNER  ─────.•*:｡✩ 
-global.owner = ['51993042301', '16477229464', '593993684821', '593968585383', '50495086382', '50497501147', '5218451003894', '5215573031859', '50498965677', '528451003894', '525573031859'] //Agrega primero el numero que será Bot, luego los numeros a ser Owner
-global.mods = [] //Moderadores
-global.prems = [] //Premium, sin Limites en usar el Bot
+global.owner = ['51934721687'] //Agrega primero el numero que será Bot, luego los numeros a ser Owner
+global.mods = ['51934721687'] //Moderadores
+global.prems = [100] //Premium, sin Limites en usar el Bot
 
 // ✩｡:*•.─────  INFORMACIION DEL BOT - GENERAL  ─────.•*:｡✩ 
-global.packname = '𝑴𝒖𝒍𝒕𝒊𝒗𝒆𝒓𝒔𝒆𝑩𝒐𝒕-𝑴𝑫' //Sticker
-global.author = '@gata_dios'
+global.packname = 'BENJAEXEBOT-𝑴𝑫' //Sticker
+global.author = '@benjaexe.pee'
 
-global.nameowner = '✨ 𝑴𝒖𝒍𝒕𝒊𝒗𝒆𝒓𝒔𝒆𝑩𝒐𝒕-𝑴𝑫 ✨' //Nombre del Bot
-global.numberowner = '51993042301'
+global.nameowner = '✨ BENJAEXEBOT-𝑴𝑫 ✨' //Nombre del Bot
+global.numberowner = '51934721687'
 
-global.instagram = 'https://www.instagram.com/gata_dios' //Enlaces
+global.instagram = 'https://www.instagram.com/benjaexe.pee' //Enlaces
 global.youtube = 'https://youtube.com/channel/UCpNU4eY7eiI0ve05CssjdbA'
 global.github = 'https://github.com/GataNina-Li/MultiverseBot-MD'
 
